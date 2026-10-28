@@ -19,6 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Third-party: web3d/vendor contains three.js 0.170.0 (MIT, see web3d/vendor/THREE_LICENSE).
-web3d/models/cat_quaternius.fbx: Quaternius, "Animal Pack Vol.2", CC0 1.0 (https://opengameart.org/content/animated-animales-low-poly).
