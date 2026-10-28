@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+stickers_out/
+*.webm
+.env
